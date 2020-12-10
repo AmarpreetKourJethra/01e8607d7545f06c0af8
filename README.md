@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Public link for postman collection:
+https://www.getpostman.com/collections/567f49811c074d273b64
